@@ -31,3 +31,5 @@ go.work.sum
 # .idea/
 # .vscode/
 *.swp
+go-zips2count
+zips2count.wasm
